@@ -24,7 +24,6 @@
     background: #f9d806;
 }
 
-
 .login-form-container{
     position: fixed;
 	top: 0;
@@ -140,12 +139,6 @@
     }
 }
 
-
-
-
-
-
-
 .login-form-container .form{
     margin:2rem;
     text-align: center;
@@ -256,9 +249,3 @@
     }
 
 }
-
-
-
-
-
-
